@@ -22,7 +22,8 @@ git remote add panolink https://github.com/Alexbao1/panolink.git
 
 git pull panolink master
 
-把bdrmap文件夹放root， 把yarrp文件夹放root/panolink
+把bdrmap、yarrp文件夹放root
+
 chmod 777 ~/panolink/yarrp/utils/zmap2warts.py 
 
 # 跑panolink
