@@ -24,7 +24,7 @@ git pull panolink master
 
 把bdrmap、yarrp文件夹放root
 
-chmod 777 ~/panolink/yarrp/utils/zmap2warts.py 
+chmod 777 ~/yarrp/utils/zmap2warts.py 
 
 # 跑panolink
 
